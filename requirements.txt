@@ -1,4 +1,5 @@
 ﻿streamlit
 gspread
 pandas
-pyrebase
+pyrebase4
+oauth2client
