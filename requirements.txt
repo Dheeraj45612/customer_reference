@@ -1,5 +1,4 @@
 ﻿streamlit
 gspread
 pandas
-time
 pyrebase
